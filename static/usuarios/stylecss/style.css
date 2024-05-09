@@ -1,5 +1,4 @@
 /* Reset CSS */
-/* Reset default styles */
 * {
     margin: 0;
     padding: 0;
@@ -71,7 +70,7 @@ nav ul li a {
 }
 
 .btn:hover {
-    background-color: #45a049;
+    background-color: #18521a;
 }
 
 /* Footer styles */
@@ -80,4 +79,5 @@ footer {
     color: #fff;
     text-align: center;
     padding: 20px 0;
+    margin-top: 13px; 
 }
